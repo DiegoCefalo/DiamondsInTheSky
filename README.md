@@ -23,3 +23,13 @@ Finally I used RandomSearch from sklearn and the hyperopt library to optimize th
 The most i got was a 0.08404 of RMSE.
 
 For a more detailed explanation please read "Explanation.ipynb" and every step I took is recorded on all the "Untitled.ipynb" in the folder "All Untitled"
+
+ ## Libraries used
+ * [Pandas](https://pandas.pydata.org/docs/)
+ * [Numpy](https://numpy.org/doc/stable/)
+ * [Seaborn](https://seaborn.pydata.org/)
+ * [Sklearn](https://scikit-learn.org/stable/index.html)
+ * [H2O](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)
+ * [XGBoost](https://xgboost.readthedocs.io/en/latest/)
+
+
